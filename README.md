@@ -12,7 +12,7 @@ stores and customers who frequent the hypermarkets.
 
 ## Features 
 
-- Baza de date test este validă din punct de vedere al integrităților ER
-- Interfața este realizată în PHP + MySQL
-- Interfața CRUD cu tabele responsive (funcții de sortare, ordonare, search, adaugare, stergere, etc.)
-- Scheme relaționale și constrângeri verificate de către interfață cu afișarea corectă a erorilor
+- The database is valid in terms of ER integrity
+- The interface is made in PHP + MySQL
+- CRUD interface with responsive tables (sort, sort, search, add, delete functions, etc.)
+- Relational schemas and constraints checked by the interface with correct display of errors
