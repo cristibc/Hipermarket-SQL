@@ -1,13 +1,16 @@
 # Hipermarket SQL
 
-## Descrierea Proiectului
+## Overview
+![Screenshot of the program](/Docs/screen1.png "Screenshot")
 
-Am creat o bază de date ce poate fi folosită de către un lanț de hipermarketuri pentru a gestiona
-comenzile plasate în cadrul acestora de către clienți. În aceasta pot fi introduse date specifice
-despre produse, precum categoriile și furnizorii acestora, angajații ce lucrează în diferite
-magazine și clienții ce frecventează hipermarketurile.
+## Project Description
 
-## Caracteristici 
+I have created a database that can be used by a hypermarket chain to manage
+orders placed there by customers. Specific data can be entered into it
+about products, such as their categories and suppliers, the employees working in the different
+stores and customers who frequent the hypermarkets.
+
+## Features 
 
 - Baza de date test este validă din punct de vedere al integrităților ER
 - Interfața este realizată în PHP + MySQL
