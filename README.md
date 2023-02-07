@@ -5,7 +5,7 @@
 
 ## Project Description
 
-I have created a database that can be used by a hypermarket chain to manage
+I have created a database front-end that can be used by a hypermarket chain to manage
 orders placed there by customers. Specific data can be entered into it
 about products, such as their categories and suppliers, the employees working in the different
 stores and customers who frequent the hypermarkets.
